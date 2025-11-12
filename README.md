@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕 Cursando Análise e Desenvolvimento de Sistemas <br>💻 Estudando desenvolvimento Full-Stack com foco em back-end<br>
+📕 Formado em Análise e Desenvolvimento de Sistemas <br>💻 Estudando desenvolvimento Full-Stack com foco em back-end<br>
 
 
 ## 🌐 Socials:
