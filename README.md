@@ -10,11 +10,9 @@
 
 <p align="left">Olá! Meu nome é Carlos Eduardo. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso uma pós-graduação em Engenharia de Software.<br><br>Sou Desenvolvedor Backend / Full Stack Júnior com foco em construção de APIs, sistemas escaláveis e arquitetura de software. Tenho experiência com Node.js, Go, React, Next.js e TypeScript, desenvolvendo projetos com autenticação, APIs REST e integração com bancos de dados.<br><br>Tenho trabalhado em projetos inspirados em plataformas reais, como uma arquitetura de microserviços semelhante ao Airbnb, utilizando Docker, RabbitMQ e integração com gateway de pagamento. Também possuo experiência com PostgreSQL, JWT e desenvolvimento de aplicações com foco em performance, organização de código e boas práticas.</p>
 
-###
 
-<!-- OPÇÃO 1: github-profile-summary-cards -->
+
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosEA28&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosEA28&theme=dracula" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=carlosEA28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -25,9 +23,20 @@
 
 ###
 
+###
+
+<!-- OPÇÃO 3: ghchart -->
+<div align="left">
+  <img src="https://ghchart.rshah.org/carlosEA28" alt="stats graph"  />
+</div>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
+
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
