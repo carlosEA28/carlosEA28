@@ -12,10 +12,16 @@
 
 ###
 
+<!-- OPÇÃO 1: github-profile-summary-cards -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=carlosEA28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEA28&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosEA28&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosEA28&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=carlosEA28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEA28&radius=16&theme=react&area=true" height="300" alt="activity-graph graph"  />
 
 ###
 
@@ -53,4 +59,6 @@
   </a>
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/carlosEA28/carlosEA28/output/snake.svg" alt="Snake animation" />
