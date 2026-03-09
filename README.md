@@ -1,13 +1,60 @@
-# 💫 About Me:
-Olá! Meu nome é Carlos Eduardo. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso uma pós-graduação em Engenharia de Software.<br><br>Sou Desenvolvedor Backend / Full Stack Júnior com foco em construção de APIs, sistemas escaláveis e arquitetura de software. Tenho experiência com Node.js, Go, React, Next.js e TypeScript, desenvolvendo projetos com autenticação, APIs REST e integração com bancos de dados.<br><br>Tenho trabalhado em projetos inspirados em plataformas reais, como uma arquitetura de microserviços semelhante ao Airbnb, utilizando Docker, RabbitMQ e integração com gateway de pagamento. Também possuo experiência com PostgreSQL, JWT e desenvolvimento de aplicações com foco em performance, organização de código e boas práticas.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Carlos%20Eduardo%20Alves%20Duarte&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-eduardo-alves-duarte-008826309/) 
+<h1 align="left">About me🚀</h1>
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+###
 
-<b>My GitHub Stats</b>
+<p align="left">Olá! Meu nome é Carlos Eduardo. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso uma pós-graduação em Engenharia de Software.<br><br>Sou Desenvolvedor Backend / Full Stack Júnior com foco em construção de APIs, sistemas escaláveis e arquitetura de software. Tenho experiência com Node.js, Go, React, Next.js e TypeScript, desenvolvendo projetos com autenticação, APIs REST e integração com bancos de dados.<br><br>Tenho trabalhado em projetos inspirados em plataformas reais, como uma arquitetura de microserviços semelhante ao Airbnb, utilizando Docker, RabbitMQ e integração com gateway de pagamento. Também possuo experiência com PostgreSQL, JWT e desenvolvimento de aplicações com foco em performance, organização de código e boas práticas.</p>
 
-<a href="http://www.github.com/carlosEA28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosEA28&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=carlosEA28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosEA28&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h2 align="left">Find me On!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-alves-duarte-008826309/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/carlosEA28/carlosEA28/output/snake.svg" alt="Snake animation" />
+
+###
