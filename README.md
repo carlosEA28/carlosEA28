@@ -1,55 +1,112 @@
-# 💫 About Me
-
-Olá! 👋 Eu sou Carlos Eduardo
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **Desenvolvedor Backend / Full Stack Júnior**, focado em **APIs, arquitetura de software, sistemas distribuídos e práticas de DevOps**.
-
-### 🚀 Sobre mim
-
-Tenho experiência prática desenvolvendo projetos com:
-
-* **Backend:** Node.js, Go, TypeScript
-* **Frontend:** React, Next.js
-* **Banco de dados:** PostgreSQL, MongoDB
-* **Arquitetura:** APIs REST, microsserviços, autenticação e mensageria
-* **Infraestrutura:** Docker, AWS e CI/CD
-* **Ferramentas:** RabbitMQ, Redis, Git
-
-Gosto de transformar problemas reais em projetos práticos, explorando conceitos como **escalabilidade, comunicação entre serviços, performance, observabilidade e automação de infraestrutura**.
-
-Entre meus projetos estão arquiteturas de **microsserviços inspiradas em plataformas reais**, APIs com autenticação e integração com bancos de dados, além de projetos utilizando **Docker, RabbitMQ, gateways de pagamento e AWS**.
-
-Estou constantemente estudando e construindo projetos para evoluir principalmente nas áreas de **Backend, Cloud e DevOps**.
-
-> 💡 *Building, learning and improving one project at a time.*
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardoaduarte/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carloseaduarte28@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-
----
-
-## 📊 GitHub Stats
+## Learning log
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=carlosEA28&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Carlos GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlosEA28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://www.gitskins.com/api/section/hero?username=carlosea28&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155082331%3Fu%3D4d2d91563391ce48a16156b4621c1e7f6d05c1f8%26v%3D4" alt="carlosea28 hero visual" />
 </p>
 
----
+**carlosea28** · Frontend or full-stack engineer
+
+## Currently learning
+
+> Sou Desenvolvedor Backend / Full Stack Júnior focado em construir aplicações web escaláveis e em aprender arquiteturas modernas de software. 
+
+**Learning next**
+
+- TypeScript
+- JavaScript
+- Go
+
+📍 Based in **Porto Alegre, BR** · 👥 **75** followers · **78** following
+
+## Tools I’m practicing
+
+- **TypeScript** · 33%
+- **JavaScript** · 26%
+- **Go** · 15%
+- **HTML** · 10%
+- **Java** · 8%
+- **Python** · 4%
+- **CSS** · 1%
+- **HCL** · 1%
+
+## Projects in progress
+
+<details>
+<summary><b>bnb-microservice</b> · HTML</summary>
+
+A simplified version of an arbnb mobile app. This repository is ment to store the backend logic,  that is based in a microservice architecure.<br/>
+⭐ 3 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/bnb-microservice)
+</details>
+
+<details>
+<summary><b>ride-share-ms</b> · Go</summary>
+
+this repo is to store the golang microservice based projetct, Ride Share, from the course Building, scaling and deploying distributed systems in Golang and Kubernetes<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/ride-share-ms)
+</details>
+
+<details>
+<summary><b>Aws_auto_scalling_lab</b> · TypeScript</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/Aws_auto_scalling_lab)
+</details>
+
+<details>
+<summary><b>Image-Processing-Platform</b> · TypeScript</summary>
+
+ API para upload e processamento assíncrono de imagens. O sistema recebe imagens, armazena no S3, envia para uma fila SQS e um worker processa as imagens (otimiza para WebP e gera thumbnail).<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/Image-Processing-Platform)
+</details>
+
+<details>
+<summary><b>SmartCondo</b> · Go</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/SmartCondo)
+</details>
+
+<details>
+<summary><b>SQL-Query-Assistent</b> · TypeScript</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/carlosEA28/SQL-Query-Assistent)
+</details>
+
+## Progress so far
+
+- **Current streak:** 2 days
+- **Longest streak:** 9 days
+- **Active days:** 159 days
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://www.gitskins.com/api/section/stats?username=carlosea28&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155082331%3Fu%3D4d2d91563391ce48a16156b4621c1e7f6d05c1f8%26v%3D4" alt="carlosea28 stats visual" />
 </p>
 
+## Learning streak
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosEA28&color=0077B5&style=flat-square" alt="Profile Views" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=carlosea28&theme=zen" alt="carlosea28 contribution activity" />
 </p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=carlosea28&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F155082331%3Fu%3D4d2d91563391ce48a16156b4621c1e7f6d05c1f8%26v%3D4" alt="carlosea28 social visual" />
+</p>
+
+<a href="https://github.com/carlosea28">GitHub</a>
+
+<p align="center"><sub>carlosea28 · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
